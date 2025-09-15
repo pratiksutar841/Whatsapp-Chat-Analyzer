@@ -93,6 +93,18 @@ Whatsapp-Chat-Analyzer/
     <li>Navigate to the project folder
         <pre>cd Whatsapp-Chat-Analyzer</pre>
     </li>
+    <li>Create a virtual environment
+        <pre>python -m venv venv</pre>
+    </li>
+    <li>Activate the virtual environment
+        <pre>
+<!-- Windows -->
+venv\Scripts\activate
+
+<!-- Linux / Mac -->
+source venv/bin/activate
+        </pre>
+    </li>
     <li>Install dependencies
         <pre>pip install -r requirements.txt</pre>
     </li>
@@ -100,6 +112,7 @@ Whatsapp-Chat-Analyzer/
         <pre>streamlit run app.py</pre>
     </li>
 </ol>
+
 
 <hr>
 
