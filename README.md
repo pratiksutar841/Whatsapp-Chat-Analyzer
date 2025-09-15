@@ -6,7 +6,8 @@
 
 <h2>🔗 Live Demo</h2>
 <p>Try the app on Streamlit Cloud: <a href="https://whatsapp-chat-analyzergit-5cs3zhmntnrd2eh2cskbvk.streamlit.app/" target="_blank">Click here</a></p>
-
+ <img src="images/live_demo.png" alt="WhatsApp Chat Analyzer Live Demo" style="width:80%; border-radius:10px; box-shadow:0px 4px 10px rgba(0,0,0,0.2);">
+    </a>
 <hr>
 
 <h2>📌 Project Objective</h2>
