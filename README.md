@@ -5,7 +5,7 @@
 <hr>
 
 <h2>🔗 Live Demo</h2>
-<p>Try the app on Streamlit Cloud: <a href="YOUR_STREAMLIT_LINK_HERE" target="_blank">Click here</a></p>
+<p>Try the app on Streamlit Cloud: <a href="https://whatsapp-chat-analyzergit-5cs3zhmntnrd2eh2cskbvk.streamlit.app/" target="_blank">Click here</a></p>
 
 <hr>
 
